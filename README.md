@@ -3,7 +3,7 @@
 🎓 **Formado em Engenharia Química**, atualmente cursando uma **pós-graduação em Engenharia de Software**. Estou em transição para a área de tecnologia, explorando minha paixão por desenvolvimento de software e Quality Assurance (QA).
 
 ## 💻 Habilidades técnicas  
-- **Linguagem de programação:** JavaScript.  
+- **Linguagem de programação:** JavaScript e Python.  
 - **Front-end:** React, HTML5, CSS3.  
 - **Back-end:** Node.js, Express, SQLite.  
 - **QA:** Postman, Jest, Selenium.  
@@ -17,8 +17,10 @@ Aqui estão alguns dos projetos que desenvolvi:
 
 - **[Timer Pomodoro](https://github.com/murilohborges/focusTimer):** Um timer Pomodoro com sons ambientes, para melhorar a concentração durante os estudos ou trabalho.
 
+- **[Simulador de uma usina termoelétrica](https://github.com/murilohborges/cycle-comb-calc):** Um microsserviço criado como uma API Rest que simula uma usina termoelétrica de ciclos combinados.
+
 ## 🌱 Em aprendizado  
-- Aprofundando conhecimentos em desenvolvimento Full-Stack com foco em JavaScript.  
+- Aprofundando conhecimentos em desenvolvimento Full-Stack.  
 - Explorando práticas e ferramentas de QA para garantir a qualidade de software.
 
 ## 💬 Como me encontrar  
